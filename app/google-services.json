@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "756960821503",
+    "firebase_url": "https://locationaware-880c6.firebaseio.com",
+    "project_id": "locationaware-880c6",
+    "storage_bucket": "locationaware-880c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756960821503:android:05045a947b81434a",
+        "android_client_info": {
+          "package_name": "hilay.edu.locationaware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756960821503-ajm5gf8cfqvdkrkel3tgeepmfbs6jssq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hilay.edu.locationaware",
+            "certificate_hash": "7bf473e035b8bb4dbc29d4b64d03f11615b48b57"
+          }
+        },
+        {
+          "client_id": "756960821503-sj5er396mtujhmqsdidojje7eglkd8qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-x78cIqVzmKT-TrQ2L-0mWH43oZll1-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756960821503-sj5er396mtujhmqsdidojje7eglkd8qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
